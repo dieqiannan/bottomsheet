@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--自定义recyleView-->
+    <declare-styleable name="MyRecyclerView">
+        <attr name="spanCount" format="integer" />
+        <attr name="myRecycleViw_isScreenW" format="boolean" />
+        <attr name="myRecycleViw_w_is_screen" format="float" />
+    </declare-styleable>
+</resources>
